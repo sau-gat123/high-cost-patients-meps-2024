@@ -1,0 +1,3 @@
+model,CV_AUC_mean,CV_AUC_sd
+Logistic,0.783,0.01
+NaiveBayes,0.756,0.01

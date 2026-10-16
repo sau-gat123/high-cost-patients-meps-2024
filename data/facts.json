@@ -1,0 +1,13 @@
+{
+ "n_adults": 14764,
+ "n_households": 8931,
+ "cutoff": 26378.700000000008,
+ "share_zero": 0.124966133839068,
+ "median": 2850.5,
+ "mean": 10783.844147927392,
+ "n_high": 1477,
+ "test_n": 3013,
+ "test_pos": 270,
+ "uninsured_n": 1038,
+ "uninsured_high": 9
+}

@@ -1,0 +1,16 @@
+,not_high_cost,high_cost
+age,51.763,62.592
+female,0.525,0.575
+race_hispanic,0.204,0.107
+race_black,0.127,0.103
+race_asian,0.06,0.029
+race_other,0.031,0.03
+ins_public,0.322,0.447
+ins_uninsured,0.077,0.006
+pov_poor,0.14,0.158
+pov_near_poor,0.04,0.045
+pov_low,0.114,0.121
+pov_middle,0.269,0.238
+chronic_count,1.483,3.002
+phys_health,2.413,3.148
+mental_health,2.308,2.668
